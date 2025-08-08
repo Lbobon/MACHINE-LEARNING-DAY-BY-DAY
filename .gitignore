@@ -1,0 +1,7 @@
+*.zip
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.egg-info/
+.DS_Store
